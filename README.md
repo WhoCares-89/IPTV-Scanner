@@ -1,4 +1,4 @@
-# IPTV-Scanner
+# IPTV-Stalker-Portal-Scanner
 This is my first project, written in python.
 
 
